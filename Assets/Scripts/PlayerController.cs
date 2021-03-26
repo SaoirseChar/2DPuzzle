@@ -12,13 +12,13 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
-        movePoint.parent = null;
+        movePoint.parent = null; // removes movepoint from parent
     }
 
     
     void Update()
     {
-        if (Time.timeScale == 1)
+        if (Time.timeScale == 1) // checks if game is playing
         {
             transform.position = Vector3.MoveTowards(transform.position, movePoint.position, moveSpeed * Time.deltaTime);
 
