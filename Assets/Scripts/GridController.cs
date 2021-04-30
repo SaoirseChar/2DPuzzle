@@ -10,6 +10,7 @@ public class GridController : MonoBehaviour
     [SerializeField] private Tilemap interactiveMap = null;
     [SerializeField] private Tilemap pathMap = null;
     [SerializeField] private Tile hoverTile = null;
+    [SerializeField] private Tile greenTile = null;
 
     private Vector3Int previousMousePos = new Vector3Int();
 
@@ -24,11 +25,17 @@ public class GridController : MonoBehaviour
     {
         // Mouse over -> highlight tile
         Vector3Int mousePos = GetMousePosition();
-        if (!mousePos.Equals(previousMousePos))
+        //if (!mousePos.Equals(previousMousePos))
+        //{
+        //    interactiveMap.SetTile(previousMousePos, greenTile); // Remove old hoverTile
+        //    interactiveMap.SetTile(mousePos, hoverTile);
+        //    previousMousePos = mousePos;
+        //}
+
+        // Left mouse click -> add path tile
+        if (Input.GetKeyDown(KeyCode.E))
         {
-            interactiveMap.SetTile(previousMousePos, null); // Remove old hoverTile
-            interactiveMap.SetTile(mousePos, hoverTile);
-            previousMousePos = mousePos;
+            interactiveMap.SetTile(mousePos, null);
         }
 
     }
@@ -39,3 +46,4 @@ public class GridController : MonoBehaviour
         return grid.WorldToCell(mouseWorldPos);
     }
 }
+//need to make a rule tile which tessts for bombs and shows different numbers

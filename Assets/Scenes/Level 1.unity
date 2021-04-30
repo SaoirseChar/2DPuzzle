@@ -615,7 +615,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 513567461}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 7.5242, y: 0.5161, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -8413,6 +8413,8 @@ MonoBehaviour:
   interactiveMap: {fileID: 1521638928}
   pathMap: {fileID: 1024624595}
   hoverTile: {fileID: 11400000, guid: 727ae73c486e37649a64daf69968fa6a, type: 2}
+  greenTile: {fileID: 11400000, guid: c4ee07f6ebaa092448e81d1fc3ac816c, type: 2}
+  player: {x: 0, y: 0, z: 0}
 --- !u!1 &1906423607
 GameObject:
   m_ObjectHideFlags: 0
