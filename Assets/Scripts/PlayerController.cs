@@ -1,8 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.SceneManagement;
+
+
 
 public class PlayerController : MonoBehaviour
 {
@@ -11,25 +11,10 @@ public class PlayerController : MonoBehaviour
     public Transform movePoint;
     public LayerMask whatStopsMovement;
 
-    [Header("Radar")]
-    public int radarUses = 3;
-    public Text radarText;
-    
-
-
     void Start()
     {
         movePoint.parent = null;
-        Scene scene = SceneManager.GetActiveScene();
-        if (scene.name == "Level 2")
-        {
-            radarUses = 5;
-        }
-        else if (scene.name == "Level 3")
-        {
-            radarUses = 8;
-        }
-        radarText.text = "Radar Uses: " + radarUses;
+        
         Time.timeScale = 1;
 
     }
@@ -60,17 +45,5 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
-
-        if (Input.GetKeyDown(KeyCode.E) && radarUses > 0)
-        {
-            Radar();
-        }
-
-    }
-
-    public void Radar()
-    {
-        radarUses--;
-        radarText.text = "Radar Uses: " + radarUses;
     }
 }

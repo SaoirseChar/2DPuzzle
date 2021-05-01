@@ -555,8 +555,6 @@ MonoBehaviour:
   whatStopsMovement:
     serializedVersion: 2
     m_Bits: 64
-  radarUses: 3
-  radarText: {fileID: 1906423609}
 --- !u!212 &513567463
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8414,7 +8412,9 @@ MonoBehaviour:
   pathMap: {fileID: 1024624595}
   hoverTile: {fileID: 11400000, guid: 727ae73c486e37649a64daf69968fa6a, type: 2}
   greenTile: {fileID: 11400000, guid: c4ee07f6ebaa092448e81d1fc3ac816c, type: 2}
-  player: {x: 0, y: 0, z: 0}
+  playerObject: {fileID: 513567461}
+  radarUses: 3
+  radarText: {fileID: 1906423609}
 --- !u!1 &1906423607
 GameObject:
   m_ObjectHideFlags: 0
