@@ -2,17 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+
 public class PlayerController : MonoBehaviour
 {
-
+    [Header("Movement")]
     public float moveSpeed = 5f;
     public Transform movePoint;
-
-    public LayerMask whatStopsMovement; //prep for colliders
+    public LayerMask whatStopsMovement;
 
     void Start()
     {
         movePoint.parent = null;
+        
+        Time.timeScale = 1;
+
     }
 
     
@@ -41,6 +45,5 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
-       
     }
 }
