@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: e40fb4de3642a9549a5d6c9981fb4cca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8446838168172065835
+    second: minesweepers_buttons_0
+  - first:
+      213: -575749573112297684
+    second: minesweepers_buttons_1
+  - first:
+      213: -3451133786725692604
+    second: minesweepers_buttons_2
+  - first:
+      213: 481626208007366885
+    second: minesweepers_buttons_3
+  - first:
+      213: 3381834730372891548
+    second: minesweepers_buttons_4
+  - first:
+      213: -2873229485350175256
+    second: minesweepers_buttons_5
+  - first:
+      213: 4803417134592900760
+    second: minesweepers_buttons_6
+  - first:
+      213: 2310469557058266672
+    second: minesweepers_buttons_7
+  - first:
+      213: 6518708110435220970
+    second: minesweepers_buttons_8
+  - first:
+      213: 8026304977451057539
+    second: minesweepers_buttons_9
+  - first:
+      213: -4158026013976943866
+    second: minesweepers_buttons_10
+  - first:
+      213: 6742300127071981119
+    second: minesweepers_buttons_11
+  - first:
+      213: 6030399079220045098
+    second: minesweepers_buttons_12
+  - first:
+      213: -6293483944309424212
+    second: minesweepers_buttons_13
+  - first:
+      213: -6366359978641527844
+    second: minesweepers_buttons_14
+  - first:
+      213: -7850546434568522119
+    second: minesweepers_buttons_15
+  - first:
+      213: -1248677892599493032
+    second: minesweepers_buttons_16
+  - first:
+      213: -4360592922717968776
+    second: minesweepers_buttons_17
+  - first:
+      213: -1874134976010912905
+    second: minesweepers_buttons_18
+  - first:
+      213: 1950858082440495183
+    second: minesweepers_buttons_19
+  - first:
+      213: -4288030063981901118
+    second: minesweepers_buttons_20
+  - first:
+      213: 5515857883105855160
+    second: minesweepers_buttons_21
+  - first:
+      213: -3182325038152574377
+    second: minesweepers_buttons_22
+  - first:
+      213: -9194062683895977156
+    second: minesweepers_buttons_23
+  - first:
+      213: 1423941462365804984
+    second: minesweepers_buttons_24
+  - first:
+      213: -8444625765596428100
+    second: minesweepers_buttons_25
+  - first:
+      213: -5487374924346982160
+    second: minesweepers_buttons_26
+  - first:
+      213: 4688113706882084720
+    second: minesweepers_buttons_27
+  - first:
+      213: -3962144107792064770
+    second: minesweepers_buttons_28
+  - first:
+      213: 4949954207510535466
+    second: minesweepers_buttons_29
+  - first:
+      213: -7117414590883449517
+    second: minesweepers_buttons_30
+  - first:
+      213: -7634124560836145876
+    second: minesweepers_buttons_31
+  - first:
+      213: -7084604255182011918
+    second: minesweepers_buttons_32
+  - first:
+      213: -8075585492558220537
+    second: minesweepers_buttons_33
+  - first:
+      213: 1525871538489501692
+    second: minesweepers_buttons_34
+  - first:
+      213: 6223192568364027207
+    second: minesweepers_buttons_35
+  - first:
+      213: -6106179146322082978
+    second: minesweepers_buttons_36
+  - first:
+      213: 5418043593172164210
+    second: minesweepers_buttons_37
+  - first:
+      213: -8218764452624112892
+    second: minesweepers_buttons_38
+  - first:
+      213: -3792836556549989119
+    second: minesweepers_buttons_39
+  - first:
+      213: -6664091890564676986
+    second: minesweepers_buttons_40
+  - first:
+      213: -5283790660806134697
+    second: minesweepers_buttons_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minesweepers_buttons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 645
+        height: 151
+      alignment: 9
+      pivot: {x: 0.31891602, y: 0.5388031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db84e6707dc6ca80800000000000000
+      internalID: -8446838168172065835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c270f0f40d68208f0800000000000000
+      internalID: -575749573112297684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bcdd91b1c1b10d0800000000000000
+      internalID: -3451133786725692604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e82cc20c741fa600800000000000000
+      internalID: 481626208007366885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9384f005c0beee20800000000000000
+      internalID: 3381834730372891548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed368f810d3028d0800000000000000
+      internalID: -2873229485350175256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e3f6f2f6a29a240800000000000000
+      internalID: 4803417134592900760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 559
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036efcc12df601020800000000000000
+      internalID: 2310469557058266672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 559
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf2f42d7a177a50800000000000000
+      internalID: 6518708110435220970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 559
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3818bef0ad9236f60800000000000000
+      internalID: 8026304977451057539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 559
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6032216de59bb46c0800000000000000
+      internalID: -4158026013976943866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 559
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e423b4e36719d50800000000000000
+      internalID: 6742300127071981119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 645
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25e0ca130840b350800000000000000
+      internalID: 6030399079220045098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 459
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafffcb62bd09a8a0800000000000000
+      internalID: -6293483944309424212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 459
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbeec0745526a7a0800000000000000
+      internalID: -6366359978641527844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 459
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97675da9c914d0390800000000000000
+      internalID: -7850546434568522119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 459
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e49bc821ecbaee0800000000000000
+      internalID: -1248677892599493032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 459
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876205717df0c73c0800000000000000
+      internalID: -4360592922717968776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 645
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bfbbd3b2cbdf5e0800000000000000
+      internalID: -1874134976010912905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 359
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40c0130717d21b10800000000000000
+      internalID: 1950858082440495183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 359
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cac922306bdd74c0800000000000000
+      internalID: -4288030063981901118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 359
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6001a35834c8c40800000000000000
+      internalID: 5515857883105855160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 359
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a951d0d3c16d3d0800000000000000
+      internalID: -3182325038152574377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 359
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ba4b383b0286080800000000000000
+      internalID: -9194062683895977156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b99345373bd2c310800000000000000
+      internalID: 1423941462365804984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 259
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb883849b99aeca80800000000000000
+      internalID: -8444625765596428100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 259
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f089e4649de8d3b0800000000000000
+      internalID: -5487374924346982160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 259
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fa855e3968f0140800000000000000
+      internalID: 4688113706882084720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 259
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe95222de2a309c0800000000000000
+      internalID: -3962144107792064770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 259
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d9d113025c1b440800000000000000
+      internalID: 4949954207510535466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 645
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355b537a32dd93d90800000000000000
+      internalID: -7117414590883449517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 159
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc644c8242e0690800000000000000
+      internalID: -7634124560836145876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 159
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c7ab37fd6ead90800000000000000
+      internalID: -7084604255182011918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 159
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703f4c2e7c1cdef80800000000000000
+      internalID: -8075585492558220537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7ab80741cfc2510800000000000000
+      internalID: 1525871538489501692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 159
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d40364ba83d5650800000000000000
+      internalID: 6223192568364027207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 645
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5303981b6e724ba0800000000000000
+      internalID: -6106179146322082978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 59
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9b9421f1c03b40800000000000000
+      internalID: 5418043593172164210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 59
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4036bb4764511fd80800000000000000
+      internalID: -8218764452624112892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 59
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dd8b34f332d5bc0800000000000000
+      internalID: -3792836556549989119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 59
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c450cbb36483a0800000000000000
+      internalID: -6664091890564676986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minesweepers_buttons_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 59
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754bf1383643ca6b0800000000000000
+      internalID: -5283790660806134697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
